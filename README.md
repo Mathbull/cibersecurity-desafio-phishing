@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./dio.me.png "Optional title")
+![Alt text](./dio-me.png "Optional title")
